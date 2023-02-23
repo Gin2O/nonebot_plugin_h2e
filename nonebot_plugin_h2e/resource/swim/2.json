@@ -1,0 +1,77 @@
+[
+  {
+    "name": "蛙泳腿部力量训练",
+    "description": "通过蛙泳蹬腿动作，训练腿部力量。",
+    "image": "https://example.com/waist-support.png",
+    "steps": [
+      "站在池中，双手抱住胸前，双腿做出蛙泳蹬腿动作，重复多次。",
+      "双手扶在池边，双腿做出蛙泳蹬腿动作，重复多次。",
+      "手臂支撑身体，另一只手臂放在腰间，双腿做出蛙泳蹬腿动作，保持平板支撑的姿势，重复多次后换另一侧。"
+    ]
+  },
+  {
+    "name": "蛙泳腰部力量训练",
+    "description": "通过蛙泳蹬腿动作，训练腰部力量。",
+    "image": "https://example.com/waist-support.png",
+    "steps": [
+      "双手扶在池边，双腿做出蛙泳蹬腿动作，重复多次。",
+      "手臂支撑身体，另一只手臂放在腰间，双腿做出蛙泳蹬腿动作，保持平板支撑的姿势，重复多次后换另一侧。"
+    ]
+  },
+  {
+    "name": "蛙泳腿部灵活性训练",
+    "description": "通过将一个脚踝放在膝盖上，做出蛙泳蹬腿动作，训练腿部灵活性。",
+    "image": "https://example.com/ankle-flexibility.png",
+    "steps": [
+      "将一个脚踝放在膝盖上，另一只脚做出蛙泳蹬腿动作，重复多次后换另一只脚。"
+    ]
+  },
+  {
+    "name": "蛙泳反向踩水",
+    "description": "通过双脚做出蛙泳蹬腿动作，同时向后做出反向踩水动作，训练腿部反向力量。",
+    "image": "https://example.com/backward-kicking.png",
+    "steps": [
+      "双脚做出蛙泳蹬腿动作，同时向后做出反向踩水动作，重复多次。"
+    ]
+  },
+  {
+    "name": "蛙泳反向切水",
+    "description": "通过双脚做出蛙泳蹬腿动作，同时向后切水，训练腿部反向力量。",
+    "image": "https://example.com/backward-sculling.png",
+    "steps": [
+      "双手伸直，手掌对着水面，双脚做出蛙泳蹬腿动作，同时向后切水，重复多次。"
+    ]
+  },
+  {
+    "name": "蛙泳加速推墙",
+    "description": "在起跳时加速蹬腿，推出更远的距离。",
+    "image": "https://example.com/wall-push-off.png",
+    "steps": [
+      "双手扶在池边，双脚蹬墙推出，起跳时加速蹬腿，重复多次。"
+    ]
+  },
+  {
+    "name": "蛙泳侧蹬腿",
+    "description": "通过侧向蹬腿，训练腿部力量和平衡感。",
+    "image": "https://example.com/side-kicking.png",
+    "steps": [
+      "侧卧在水中，一个手臂支撑身体，另一只手臂放在腰间，双腿做出蛙泳蹬腿动作，重复多次后换另一侧。"
+    ]
+  },
+  {
+    "name": "蛙泳翻滚转身",
+    "description": "练习蛙泳翻滚转身技巧，提高转身效率。",
+    "image": "https://example.com/flip-turn.png",
+    "steps": [
+      "在泳道中游泳，接近泳池边缘时，做出翻滚转身动作，快速推出。"
+    ]
+  },
+  {
+    "name": "蛙泳抬头呼吸练习",
+    "description": "练习蛙泳抬头呼吸技巧，提高呼吸效率。",
+    "image": "https://example.com/breathing-exercise.png",
+    "steps": [
+      "在池中游泳，练习抬头呼吸技巧，保持身体平衡。"
+    ]
+  }
+]

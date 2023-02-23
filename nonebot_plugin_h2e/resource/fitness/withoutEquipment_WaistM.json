@@ -1,0 +1,215 @@
+[
+  {
+    "name": "平板支撑",
+    "description": "俯卧撑的变种，通过支撑身体的力量来增强核心稳定性。",
+    "image": "https://example.com/images/plank.jpg",
+    "steps": [
+      "开始时，俯卧在地上，双肘弯曲，双手放在肩膀下方。",
+      "将脚跨开与肩同宽，收紧臀部和腹肌，让身体保持一条直线。",
+      "保持这个姿势，尽可能长时间地保持平衡。",
+      "放松身体，回到起始姿势。"
+    ]
+  },
+  {
+    "name": "侧卧抬腿",
+    "description": "增强腰部肌肉力量和柔韧性。",
+    "image": "https://example.com/images/side-leg-lifts.jpg",
+    "steps": [
+      "侧卧位，一条手臂放在头下，另一条手臂放在身体前方。",
+      "抬起上腿，保持膝盖弯曲，再悬停片刻后放下。",
+      "进行同样的动作。",
+      "换另一侧进行同样的动作。"
+    ]
+  },
+  {
+    "name": "跳绳",
+    "description": "提高腰部的柔韧性和协调性。",
+    "image": "https://example.com/images/jump-rope.jpg",
+    "steps": [
+      "双脚并拢，双手握住跳绳。",
+      "通过跳绳的方式进行锻炼。",
+      "保持平衡，尽可能多地跳跃。",
+      "停止跳跃，放松身体。"
+    ]
+  },
+  {
+    "name": "仰卧起坐",
+    "description": "增强腰部肌肉力量。",
+    "image": "https://example.com/images/sit-ups.jpg",
+    "steps": [
+      "仰卧位，双手放在头后。",
+      "收腹，向上抬起上半身，再慢慢放下。",
+      "进行多组动作。",
+      "放松身体，回到起始姿势。"
+    ]
+  },
+  {
+    "name": "下蹲抬腿",
+    "description": "加强腰部协调性和稳定性。",
+    "image": "https://example.com/images/squat-leg-raise.jpg",
+    "steps": [
+      "双脚分开与肩同宽，双手放在腰部。",
+      "慢慢下蹲，将臀部后移，保持平衡。",
+      "抬起一条腿",
+      "保持膝盖弯曲，将大腿抬起，直到与地面平行。",
+      "放下大腿，回到起始姿势。",
+      "进行多组动作，然后换另一条腿进行相同的动作。"
+    ]
+  },
+  {
+    "name": "仰卧交替抬腿",
+    "description": "增强腰部和腹部肌肉的力量和柔韧性。",
+    "image": "https://example.com/images/alternating-leg-raises.jpg",
+    "steps": [
+      "仰卧位，双手放在身体两侧。",
+      "将一条腿抬起，直到与地面垂直。",
+      "慢慢放下腿，然后将另一条腿抬起。",
+      "进行多组动作。"
+    ]
+  },
+  {
+    "name": "站姿扭腰",
+    "description": "增强腰部肌肉力量和柔韧性。",
+    "image": "https://example.com/images/twist.jpg",
+    "steps": [
+      "双脚并拢，双手放在腰部。",
+      "转动上半身，向左扭曲腰部，保持平衡。",
+      "慢慢回到起始姿势，再向右扭曲腰部。",
+      "进行多组动作。"
+    ]
+  },
+  {
+    "name": "单腿桥",
+    "description": "加强腰部和臀部肌肉力量和协调性。",
+    "image": "https://example.com/images/single-leg-bridge.jpg",
+    "steps": [
+      "仰卧位，一条腿屈膝，另一条腿伸直。",
+      "用屈膝的腿推起臀部，使身体形成一条直线。",
+      "保持这个姿势，然后慢慢放下臀部。",
+      "进行多组动作，然后换另一条腿进行相同的动作。"
+    ]
+  },
+  {
+    "name": "俯卧伸展",
+    "description": "增强腰部肌肉力量和柔韧性。",
+    "image": "https://example.com/images/back-extensions.jpg",
+    "steps": [
+      "俯卧位，双手放在身体两侧。",
+      "用腰部的力量将上半身抬起，直到与地面平行。",
+      "保持这个姿势，然后慢慢放下上半身。",
+      "进行多组动作。"
+    ]
+  },
+  {
+    "name": "仰卧单腿交替抬起",
+    "description": "增强腰部和腿部肌肉的力量和协调性。",
+    "image": "https://example.com/images/supine-alternating-leg-raises.jpg",
+    "steps": [
+      "仰卧位，双手放在身体两侧。",
+      "将一条腿伸直向上抬起，直到与地面垂直。",
+      "慢慢放下腿，然后将另一条腿抬起。",
+      "进行多组动作。"
+    ]
+  },
+  {
+    "name": "下蹲",
+    "description": "增强腰部和腿部肌肉的力量和柔韧性。",
+    "image": "https://example.com/images/squat.jpg",
+    "steps": [
+      "双脚与肩同宽，手臂向前伸展。",
+      "向下弯曲膝盖，直到大腿与地面平行。",
+      "保持这个姿势，然后慢慢站起来。",
+      "进行多组动作。"
+    ]
+  },
+  {
+    "name": "卷腹",
+    "description": "增强腰部和腹部肌肉的力量和柔韧性。",
+    "image": "https://example.com/images/crunches.jpg",
+    "steps": [
+      "仰卧位，双手放在头部。",
+      "向上抬起上半身，直到肩膀离开地面。",
+      "保持这个姿势，然后慢慢放下上半身。",
+      "进行多组动作。"
+    ]
+  },
+  {
+    "name": "跑步",
+    "description": "增强心肺功能，同时有助于减肥。",
+    "image": "https://example.com/images/running.jpg",
+    "steps": [
+      "找一个宽敞的空间，开始慢跑。",
+      "保持良好的姿势，不要弯曲腰部。",
+      "逐渐加快速度，进行有氧运动。",
+      "跑步时，记得要呼吸顺畅。"
+    ]
+  },
+  {
+    "name": "踢腿",
+    "description": "增强腰部和腿部肌肉的力量和协调性。",
+    "image": "https://example.com/images/kick.jpg",
+    "steps": [
+      "站立，双手放在腰部。",
+      "将一条腿向前踢出，保持膝盖微微弯曲。",
+      "慢慢放下腿，然后将另一条腿向前踢出。",
+      "进行多组动作。"
+    ]
+  },
+  {
+    "name": "仰卧腿部交叉",
+    "description": "增强腰部和腿部肌肉的力量和协调性。",
+    "image": "https://example.com/images/cross-leg-lower.jpg",
+    "steps": [
+      "仰卧位，双手放在身体两侧。",
+      "将双腿向上抬起，膝盖微微弯曲。",
+      "将右腿向左交叉，然后慢慢放下腿。",
+      "将左腿向右交叉，然后慢慢放下腿。",
+      "进行多组动作。"
+    ]
+  },
+  {
+    "name": "俯卧撑",
+    "description": "增强腰部和胸部肌肉的力量和柔韧性。",
+    "image": "https://example.com/images/push-up.jpg",
+    "steps": [
+      "俯卧位，双手放在肩膀下方。",
+      "将身体向上推起，直到手臂伸直。",
+      "保持这个姿势，然后慢慢放下身体。",
+      "进行多组动作。"
+    ]
+  },
+  {
+    "name": "原地踏步",
+    "description": "增强心肺功能，同时有助于减肥。",
+    "image": "https://example.com/images/step.jpg",
+    "steps": [
+      "找一个宽敞的空间，开始原地踏步。",
+      "将膝盖抬高，将脚抬离地面。",
+      "保持良好的姿势，不要弯曲腰部。",
+      "逐渐加快速度，进行有氧运动。",
+      "踏步时，记得要呼吸顺畅。"
+    ]
+  },
+  {
+    "name": "交替提膝",
+    "description": "增强腰部和腿部肌肉的力量和协调性。",
+    "image": "https://example.com/images/knee-raises.jpg",
+    "steps": [
+      "站立，双手放在腰部。",
+      "将一条腿向上提膝盖，保持膝盖与腰部同高。",
+      "慢慢放下腿，然后将另一条腿向上提膝盖。",
+      "进行多组动作。"
+    ]
+  },
+  {
+    "name": "单腿平衡",
+    "description": "增强腰部和腿部肌肉的力量和协调性。",
+    "image": "https://example.com/images/single-leg-balance.jpg",
+    "steps": [
+      "站立，双手放在腰部。",
+      "将一条腿向后抬起，保持身体平衡。",
+      "保持这个姿势几秒钟，然后慢慢放下腿。",
+      "进行多组动作。"
+    ]
+  }
+]
