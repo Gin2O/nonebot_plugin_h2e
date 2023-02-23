@@ -21,12 +21,12 @@ _✨ NoneBot how2exercise ——Bot已经帮我们解决了吃什么 能不能�
 
 * pip 
 ```
-pip install nonebot_plugin_h2e
+pip install nonebot-plugin-h2e
 ```
 
 * nb_cli
 ```
-nb plugin install nonebot_plugin_h2e
+nb plugin install nonebot-plugin-h2e
 ```
 
 # 配置.env
