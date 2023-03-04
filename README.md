@@ -10,8 +10,8 @@
 
 _✨ NoneBot how2exercise ——Bot已经帮我们解决了吃什么 能不能解决我们练什么呢  ✨_
 
-<a href="https://pypi.python.org/pypi/nonebot-plugin-note">
-    <img src="https://img.shields.io/pypi/v/nonebot-plugin-note.svg" alt="pypi">
+<a href="https://pypi.python.org/pypi/nonebot-plugin-h2e">
+    <img src="https://img.shields.io/pypi/v/nonebot-plugin-h2e.svg" alt="pypi">
 </a>
 
 </div>
